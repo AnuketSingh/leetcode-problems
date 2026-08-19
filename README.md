@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/AnuketSingh/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
+| [0136-single-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AnuketSingh/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
@@ -43,5 +44,6 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
