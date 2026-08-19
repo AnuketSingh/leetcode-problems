@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AnuketSingh/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnuketSingh/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
