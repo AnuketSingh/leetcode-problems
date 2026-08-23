@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/AnuketSingh/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AnuketSingh/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AnuketSingh/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
@@ -37,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -62,4 +65,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AnuketSingh/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
