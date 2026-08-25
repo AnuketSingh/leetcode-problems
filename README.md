@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/AnuketSingh/leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/AnuketSingh/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuketSingh/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/AnuketSingh/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0189-rotate-array/) | Medium |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/AnuketSingh/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -91,4 +93,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnuketSingh/leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AnuketSingh/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
