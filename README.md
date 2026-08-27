@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnuketSingh/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnuketSingh/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnuketSingh/leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AnuketSingh/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
