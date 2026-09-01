@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/AnuketSingh/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/AnuketSingh/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
+| [0118-pascals-triangle](https://github.com/AnuketSingh/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuketSingh/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/AnuketSingh/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0136-single-number/) | Easy |
@@ -96,6 +97,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/AnuketSingh/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuketSingh/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Simulation
