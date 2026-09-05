@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AnuketSingh/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnuketSingh/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -76,6 +77,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AnuketSingh/leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +144,24 @@
 | ------- | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuketSingh/leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
