@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AnuketSingh/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnuketSingh/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -56,6 +57,7 @@
 | [0229-majority-element-ii](https://github.com/AnuketSingh/leetcode-problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
