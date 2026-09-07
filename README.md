@@ -42,6 +42,7 @@
 | [0031-next-permutation](https://github.com/AnuketSingh/leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/AnuketSingh/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/AnuketSingh/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -142,6 +143,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuketSingh/leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Sliding Window
