@@ -75,6 +75,7 @@
 | [0001-two-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/AnuketSingh/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/AnuketSingh/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/AnuketSingh/leetcode-problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -148,6 +149,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/AnuketSingh/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuketSingh/leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
