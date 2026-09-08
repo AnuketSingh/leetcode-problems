@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -145,6 +146,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuketSingh/leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -186,4 +188,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
