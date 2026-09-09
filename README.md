@@ -69,6 +69,7 @@
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3870-count-commas-in-range](https://github.com/AnuketSingh/leetcode-problems/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/AnuketSingh/leetcode-problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
