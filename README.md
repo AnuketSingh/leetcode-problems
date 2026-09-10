@@ -161,6 +161,7 @@
 | [0796-rotate-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuketSingh/leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -191,10 +192,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
