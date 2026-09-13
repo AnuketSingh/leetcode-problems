@@ -29,6 +29,7 @@
 | [0414-third-maximum-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0835-image-overlap](https://github.com/AnuketSingh/leetcode-problems/tree/main/0835-image-overlap/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnuketSingh/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -159,6 +160,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AnuketSingh/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
+| [0835-image-overlap](https://github.com/AnuketSingh/leetcode-problems/tree/main/0835-image-overlap/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## String
 | Problem Name | Difficulty |
