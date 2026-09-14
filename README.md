@@ -75,6 +75,7 @@
 | [0048-rotate-image](https://github.com/AnuketSingh/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/AnuketSingh/leetcode-problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3870-count-commas-in-range](https://github.com/AnuketSingh/leetcode-problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/AnuketSingh/leetcode-problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -260,4 +261,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnuketSingh/leetcode-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/AnuketSingh/leetcode-problems/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
