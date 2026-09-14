@@ -40,6 +40,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnuketSingh/leetcode-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -141,6 +142,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnuketSingh/leetcode-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0118-pascals-triangle](https://github.com/AnuketSingh/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuketSingh/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AnuketSingh/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -165,6 +167,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnuketSingh/leetcode-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/AnuketSingh/leetcode-problems/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/AnuketSingh/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
@@ -253,4 +256,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnuketSingh/leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnuketSingh/leetcode-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
