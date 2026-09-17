@@ -32,6 +32,7 @@
 | [0835-image-overlap](https://github.com/AnuketSingh/leetcode-problems/tree/main/0835-image-overlap/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnuketSingh/leetcode-problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnuketSingh/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnuketSingh/leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -95,6 +96,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AnuketSingh/leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AnuketSingh/leetcode-problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnuketSingh/leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
@@ -104,6 +106,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0493-reverse-pairs](https://github.com/AnuketSingh/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnuketSingh/leetcode-problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -150,6 +153,7 @@
 | [0118-pascals-triangle](https://github.com/AnuketSingh/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuketSingh/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AnuketSingh/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnuketSingh/leetcode-problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnuketSingh/leetcode-problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -192,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuketSingh/leetcode-problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
