@@ -78,6 +78,7 @@
 | [0189-rotate-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/AnuketSingh/leetcode-problems/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AnuketSingh/leetcode-problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnuketSingh/leetcode-problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3870-count-commas-in-range](https://github.com/AnuketSingh/leetcode-problems/tree/main/3870-count-commas-in-range/) | Easy |
@@ -277,6 +278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/AnuketSingh/leetcode-problems/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AnuketSingh/leetcode-problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
