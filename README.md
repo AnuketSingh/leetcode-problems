@@ -164,6 +164,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnuketSingh/leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +194,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AnuketSingh/leetcode-problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnuketSingh/leetcode-problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
