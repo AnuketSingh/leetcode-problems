@@ -41,6 +41,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/AnuketSingh/leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/AnuketSingh/leetcode-problems/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnuketSingh/leetcode-problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/AnuketSingh/leetcode-problems/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AnuketSingh/leetcode-problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnuketSingh/leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/AnuketSingh/leetcode-problems/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@
 | [0229-majority-element-ii](https://github.com/AnuketSingh/leetcode-problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/AnuketSingh/leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AnuketSingh/leetcode-problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/AnuketSingh/leetcode-problems/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
