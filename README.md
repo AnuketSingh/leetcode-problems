@@ -159,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnuketSingh/leetcode-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/AnuketSingh/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuketSingh/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AnuketSingh/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -195,6 +196,7 @@
 | [0013-roman-to-integer](https://github.com/AnuketSingh/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AnuketSingh/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/AnuketSingh/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/AnuketSingh/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
@@ -247,6 +249,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnuketSingh/leetcode-problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -309,4 +312,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnuketSingh/leetcode-problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
