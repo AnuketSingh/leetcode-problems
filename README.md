@@ -163,6 +163,7 @@
 | [0118-pascals-triangle](https://github.com/AnuketSingh/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuketSingh/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AnuketSingh/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnuketSingh/leetcode-problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -201,6 +202,7 @@
 | [0205-isomorphic-strings](https://github.com/AnuketSingh/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/AnuketSingh/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AnuketSingh/leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -241,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnuketSingh/leetcode-problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -250,6 +253,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnuketSingh/leetcode-problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -257,6 +261,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnuketSingh/leetcode-problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Trie
