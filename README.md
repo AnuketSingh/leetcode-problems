@@ -201,6 +201,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/AnuketSingh/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/AnuketSingh/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/AnuketSingh/leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0796-rotate-string/) | Easy |
@@ -328,4 +329,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
