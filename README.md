@@ -54,6 +54,7 @@
 | [0075-sort-colors](https://github.com/AnuketSingh/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/AnuketSingh/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/AnuketSingh/leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/AnuketSingh/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
@@ -97,6 +98,7 @@
 | [0001-two-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/AnuketSingh/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/AnuketSingh/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/AnuketSingh/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/AnuketSingh/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/AnuketSingh/leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/AnuketSingh/leetcode-problems/tree/main/0229-majority-element-ii/) | Medium |
@@ -343,6 +345,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/AnuketSingh/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0328-odd-even-linked-list/) | Medium |
