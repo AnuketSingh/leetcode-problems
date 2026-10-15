@@ -59,6 +59,7 @@
 | [0234-palindrome-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/AnuketSingh/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnuketSingh/leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnuketSingh/leetcode-problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
@@ -349,4 +350,5 @@
 | [0206-reverse-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
