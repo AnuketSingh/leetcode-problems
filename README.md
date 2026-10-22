@@ -253,6 +253,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/AnuketSingh/leetcode-problems/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AnuketSingh/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/AnuketSingh/leetcode-problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0856-score-of-parentheses/) | Medium |
@@ -358,4 +359,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AnuketSingh/leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/AnuketSingh/leetcode-problems/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
