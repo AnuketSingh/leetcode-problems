@@ -78,6 +78,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/AnuketSingh/leetcode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AnuketSingh/leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnuketSingh/leetcode-problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AnuketSingh/leetcode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AnuketSingh/leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AnuketSingh/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnuketSingh/leetcode-problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AnuketSingh/leetcode-problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnuketSingh/leetcode-problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -301,16 +303,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0100-same-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnuketSingh/leetcode-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0100-same-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnuketSingh/leetcode-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0100-same-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnuketSingh/leetcode-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -349,6 +354,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/AnuketSingh/leetcode-problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
