@@ -303,6 +303,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0100-same-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnuketSingh/leetcode-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -315,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0100-same-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnuketSingh/leetcode-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Recursion
@@ -373,4 +375,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AnuketSingh/leetcode-problems/tree/main/0155-min-stack/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnuketSingh/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
